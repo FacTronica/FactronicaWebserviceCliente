@@ -8,3 +8,11 @@ El webservice cliente de factronica est desarrollado para realizar las 5 funcion
 <br>3.-Recuperar Archivo XML con TrackID
 <br>4.-Recuperar Archivo XML con Documento Electrónico
 <br>5.-Recuperar Archivo PDF con Documento Electrónico
+<br>
+<h4>Procedimiento a Seguir para Utilizar FactronicaWebserviceCliente:</h4>
+<ul>
+<li>Editar el archivo cargar_datos.php y reemplazar los valores contantes por variables</li>
+<li>Desde su sistema propio al pulsar el botón Enviar debe ejecutar modo backend el index.php</li>
+<li>Si el SII le entrego trackid, debe proceder a visualizar el Pdf para su impresión.</li>
+<li>Almacenar en su sistema propio los archivos; Xml, Pdf con documento y trackid</li>
+</ul>
